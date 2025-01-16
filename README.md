@@ -7,7 +7,7 @@ l
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=VAJIRA+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/VajiraTech">
+<a href="https://github.com/VajiraTechOfficial/">
     <img src="https://pomf2.lain.la/f/aqi35mmg.jpg"  width="700px">
 </a>
 <hr>
@@ -15,39 +15,39 @@ l
 
 <p align="center">
 
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
+  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJIRA_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA_MD/fork">
+  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD/fork">
     <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA_MD?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/stargazers">
+  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD/stargazers">
     <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA_MD?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
+  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
     <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA_MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
+  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
     <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA_MD?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
+  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
     <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA_MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
+  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
     <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/VajiraTech/VAJIRA_MD">
+  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
 
   </a>
@@ -68,7 +68,7 @@ l
 
 ## 🎀 STEP 01 -  Fork The Repo
 
-<a href="https://github.com/VajiraTech/VAJIRA_MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
+<a href="https://github.com/VajiraTechOfficial/VAJIRA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
@@ -132,7 +132,7 @@ l
 
 ## VAJIRA MD DEVELOPER TEAM
 
-| <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/aqi35mmg.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/yn4h3lb.jpg" width=90 height=90></a> | <a href="https://github.com/20070808lk"><img src="https://pomf2.lain.la/f/kph4trq.jpg" width=90 height=90></a> | <a href=""><img src="https://pomf2.lain.la/f/cezntw1.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/87bf2bcb38abef47205ad.jpg" width=90 height=90></a>  |  <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/aa52e76beeeee65cad24c.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/l66e44rx.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/ahwljn42.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/ud9j45sk.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/qa8i6chz.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/6f9toku3.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/1u5x6v6p.jpg" width=90 height=90></a> |
+| <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD"><img src="https://pomf2.lain.la/f/aqi35mmg.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD"><img src="https://pomf2.lain.la/f/yn4h3lb.jpg" width=90 height=90></a> | <a href="https://github.com/20070808lk"><img src="https://pomf2.lain.la/f/kph4trq.jpg" width=90 height=90></a> | <a href=""><img src="https://pomf2.lain.la/f/cezntw1.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD"><img src="https://telegra.ph/file/87bf2bcb38abef47205ad.jpg" width=90 height=90></a>  |  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD"><img src="https://telegra.ph/file/aa52e76beeeee65cad24c.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD"><img src="https://pomf2.lain.la/f/l66e44rx.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD"><img src="https://pomf2.lain.la/f/ahwljn42.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD"><img src="https://pomf2.lain.la/f/ud9j45sk.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD"><img src="https://pomf2.lain.la/f/qa8i6chz.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD"><img src="https://pomf2.lain.la/f/6f9toku3.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD"><img src="https://pomf2.lain.la/f/1u5x6v6p.jpg" width=90 height=90></a> |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **[Vajira T.D.D](https://github.com/VajiraTech)**</br>Founder & Developer</br> | **[Peter T.D.D](https://github.com/VajiraTech)**</br>  CO-Coder</br> | **[Panda T.D.D ](https://github.com/VajiraTech)**</br>Bug Suplier</br> | **[Rasiya999 T.D.D](https://github.com/VajiraTech)**</br>Tool Suplier | **[Theekshana T.D.D](https://github.com/VajiraTech)**</br>Group & Management | **[Rukshan T.D.D](https://github.com/VajiraTech)**</br> Bug Tester | **[Danidu T.D.D](https://github.com/VajiraTech)**</br>Logo Designer | **[Janiya T.D.D](https://github.com/VajiraTech)**</br> Tool Suplier | **[Didula T.D.D](https://github.com/VajiraTech)**</br>Bug Supler | **[Arrow T.D.D](https://github.com/VajiraTech)**</br>Bug Tester | **[Shen T.D.D](https://github.com/VajiraTech)**</br>Movie Controller | **[Ishu T.D.D](https://github.com/VajiraTech)**</br>Voice Helper |
 
